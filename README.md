@@ -37,7 +37,10 @@ const  tags  = ['Курси', 'Курс', '...'];
 
 <hr />
 This is open source project.
-In this project using [puppeteer](https://pptr.dev/) and [csv-writer](https://github.com/ryu1kn/csv-writer)
+In this project using:
+
+- [puppeteer](https://pptr.dev/)
+- [csv-writer](https://github.com/ryu1kn/csv-writer)
 
 
 
