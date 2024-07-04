@@ -32,7 +32,7 @@ const  tags  = ['Курси', 'Курс', '...'];
 
 | Title | Catalog | Description | Information | WebSite | Social Medias | Phone | Services | City | Address | Coordinates |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Auto-repair | cars | Repering cars and mechanic service | http://auto-repair.com/ | https://instagram.com/auto-repair, https://facebook.com/auto-repair, auto-repair@mail.com | +380 66 501 75-41 | cars, repeirs, auto, mechanic | Kiev | str. Voksalna, 15 | 23°58'47.1 N 49°48'14.7 E |
+| Auto-repair | cars | Repering cars and mechanic service | auto-repair | http://auto-repair.com/ | https://instagram.com/auto-repair, https://facebook.com/auto-repair, auto-repair@mail.com | +380 66 501 75-41 | cars, repeirs, auto, mechanic | Kiev | str. Voksalna, 15 | 23°58'47.1 N 49°48'14.7 E |
 |...|...|...|...|...|...|...|...|...|...|...|
 
 <hr />
